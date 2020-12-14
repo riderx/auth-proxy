@@ -7,8 +7,8 @@ Naas Auth Proxy provides the following features:
 
 ## Supported Logins
 
-* Notion.so;
-* LinkedIn.com;
+* Notion.so
+* LinkedIn.com
 
 ## Setup and Run
 
