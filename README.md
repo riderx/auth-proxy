@@ -2,8 +2,8 @@
 
 Naas Auth Proxy provides the following features:
 
-* Cookies can be retrived after login;
-* Filter cookie based on name;
+* Cookies can be retrived after login
+* Filter cookie based on name
 
 ## Supported Logins
 
